@@ -1,0 +1,4 @@
+to run the file:-
+1. Install modules from requirements.txt
+2. Open File in terminal
+3. streamlit run app.py
